@@ -1,6 +1,6 @@
 import {useAppContext} from "./contexts/app-context.jsx";
 import {useEffect} from "react";
-import { RouterProvider } from 'react-router-dom'
+import { RouterProvider } from "react-router";
 import  router from "./router";
 import './core/i18n';
 
